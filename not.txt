@@ -2,6 +2,6 @@ REACT.JS MONGODB DATABASE CONNECTİON
 
 
 VSCode terminal'ine kodu yazarak
-npm i node modules  klaörünü indiriniz.
+npm i node-modules  klaörünü indiriniz.
 
 Terminal'de çalıştırmak için node database yazınız. 
